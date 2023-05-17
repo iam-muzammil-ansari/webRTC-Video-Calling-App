@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">webRTC</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">We Will send you an one time OTP on this Given Mobile Number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="submit">Submit</string>
+    <string name="register_mobile_number">Register Mobile Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profilefragment" />
+    <string name="callfragment">Call Fragment</string>
+    <string name="this_is_profile">This is Profile</string>
+    <string name="this_is_call">This is Call</string>
+    <string name="webrtc">webRTC</string>
+    <string name="this_is_home_page">This Is Home page</string>
+</resources>
